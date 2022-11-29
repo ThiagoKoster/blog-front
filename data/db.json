@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Hello world 2",
+      "body": "blablabla",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "Hello world 3",
+      "body": "blablabla",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
